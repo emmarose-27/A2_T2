@@ -57,7 +57,7 @@
 
       var view = new MapView({
         container: "viewDiv",
-        center: [-90.2, 38.6],
+        center: [-90.19090187620964, 38.62621546011977],
         zoom: 12,
         map: map
       });
